@@ -25,6 +25,9 @@ body {
   font-weight: normal;
   font-style: normal;
 }
+.slider_area{
+  margin-top:50%; 
+}
 
 
 /* line 12, ../../Arafath/CL/CL October/213. Business/HTML/scss/theme-default.scss */
